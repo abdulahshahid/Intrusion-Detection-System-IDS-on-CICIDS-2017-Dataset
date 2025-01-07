@@ -119,7 +119,7 @@ The following Python libraries are required:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-- `tensorflow` (if neural networks are used)
+- `tensorflow`
 
 
 ---
